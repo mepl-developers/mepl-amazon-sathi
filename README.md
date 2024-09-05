@@ -1,10 +1,8 @@
-# Amazon Product Api (Unofficial)
+# MEPL AMAZON SATHI (Unofficial)
 
 ![NPM](https://img.shields.io/npm/l/mepl-amazon-sathi.svg?style=for-the-badge) ![npm](https://img.shields.io/npm/v/mepl-amazon-sathi.svg?style=for-the-badge)
 
-Very useful tool that is able to extract almost same amount of data as the official Amazon Product API
-
-## If you like this tool then please Star it
+Very useful tool that is able to extract almost same amount of data as the official amazon product api
 
 ## Features
 
