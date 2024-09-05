@@ -1,0 +1,46 @@
+{
+    "name": "mepl-amazon-sathi",
+    "version": "1.0.0",
+    "description": "Amazon Scraper. You can scrape products from amazon search result and you can also scrape reviews from a specific product",
+    "main": "./lib/index.js",
+    "bin": {
+        "mepl-amazon-sathi": "bin/cli.js"
+    },
+    "files": [
+        "lib"
+    ],
+    "dependencies": {
+        "async": "^3.2.0",
+        "bluebird": "^3.7.2",
+        "cheerio": "^1.0.0-rc.3",
+        "json2csv": "^4.5.3",
+        "moment": "^2.27.0",
+        "ora": "^4.0.2",
+        "request": "^2.88.0",
+        "request-promise": "^4.2.4",
+        "socks-proxy-agent": "^5.0.0",
+        "tough-cookie": "^3.0.1",
+        "yargs": "^14.2.0"
+    },
+    "devDependencies": {},
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/mepl-developers/mepl-amazon-sathi.git"
+    },
+    "keywords": [
+        "amazon",
+        "scraper"
+    ],
+    "author": "mepl-developers",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/mepl-developers/mepl-amazon-sathi/issues"
+    },
+    "homepage": "https://github.com/mepl-developers/mepl-amazon-sathi#readme",
+    "directories": {
+        "lib": "lib"
+    }
+}
